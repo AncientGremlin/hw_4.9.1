@@ -1,4 +1,8 @@
 main{
-    height: 1000px;
-    top: 50px;
+    padding-top: 50px;
+}
+
+.main_content {
+    margin: 40px;
+    padding: 10px;
 }
