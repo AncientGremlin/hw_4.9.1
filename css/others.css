@@ -32,4 +32,7 @@
     background-repeat: no-repeat; 
     background-image: url('../images/fish.jpg');
 }
-
+.comment{
+    font-style: italic;
+    font-weight: 200;
+}

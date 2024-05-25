@@ -2,7 +2,7 @@
 .night_div {
     background-color:#1c1c1cf1 !important; /* да, автор знает, что делает important :) */
     color:#b3aeaa !important; 
-    font-size: 16px;
+    font-size: 17px;
 }
 .night_div a{
     color: #c1c5bc;
@@ -19,4 +19,7 @@
 }
 .night_div p{
     margin:10px;
+}
+.night_div address{
+    margin:10px; 
 }
